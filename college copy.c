@@ -1,5 +1,5 @@
 /* Make structures to store the details of
-students, teachers, admins in your college (in detailed) */
+students, teachers, admins of your college  */
 #include <stdio.h>
 #include <string.h>
 
