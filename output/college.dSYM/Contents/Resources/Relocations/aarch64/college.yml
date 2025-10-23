@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/suhaniii/C Tutorials/colllege_details/output/college'
+relocations:     []
+...
